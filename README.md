@@ -1,7 +1,7 @@
 # Projets en cours
 
 Voici la liste exhaustive des projets de l'association Wi-Bash; Vous trouverez sur cette page les liens menant aux pages principales de chaque projet.
-**Pour les projets à venir, veuillez visiter [cette page]()**
+**Pour les projets à venir, veuillez visiter** [cette page](Projets_à_venir.md)
 
 ***
 
