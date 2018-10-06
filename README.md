@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Projets en cours
 
-You can use the [editor on GitHub](https://github.com/mbardou/Wi-Bash_Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Voici la liste exhaustive des projets de l'association Wi-Bash; Vous trouverez sur cette page les liens menant aux pages principales de chaque projet.
+**Pour les projets à venir, veuillez visiter [cette page]()**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+## - Construction du site Wordpress
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vous retrouverez le lien du site [ici](http://wi-bash.fr/) , ainsi que la page du projet du site [ici](https://nehil971.github.io/WI-BASH-website/)
 
-```markdown
-Syntax highlighted code block
+*Dirigé par Thibault*
 
-# Header 1
-## Header 2
-### Header 3
+***
 
-- Bulleted
-- List
+## - Projet Arduino
 
-1. Numbered
-2. List
+(A venir)
 
-**Bold** and _Italic_ and `Code` text
+***
 
-[Link](url) and ![Image](src)
-```
+## - Projet Wi-Bash Noobs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Ce projet consiste a lister les logiciels fortement recommandés afin de participer aux projets, des liens vers les pages de tutoriels d'installation de certains logiciels, ainsi que d'autres détails qui seront fortement utiles aux nouveaux membres de l'association _Wi-Bash_.
 
-### Jekyll Themes
+Retrouvez La page du projet [Wi-Bash Noobs](https://mbardou.github.io/Wi-bash-noobs/) !
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbardou/Wi-Bash_Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+***
 
-### Support or Contact
+## - Projet Bureautique
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dans ce projet, vous retrouverez des mini-tutoriels qui vous initieront A l'incontournable language **markdown**, que vous devrez utiliser dans toute rédaction de projet sur Github.
+Vous retrouverez également des informations sur certains logiciels très utiles tel que pandoc.
+
+Rejoignez la page du projet [Bureautique]()
