@@ -5,6 +5,12 @@ Voici la liste exhaustive des projets de l'association Wi-Bash; Vous trouverez s
 
 ***
 
+## - projet Wi-bash Projets
+
+Vous y-êtes ! Cette page est aussi un projet, puisqu'il faut mettre à jour sa liste à chaque fois qu'un projet voit le jour ! il me semble que vous avez déjà trouvé sa page... Bonne visite !
+
+***
+
 ## - Construction du site Wordpress
 
 Vous retrouverez le lien du site [ici](http://wi-bash.fr/) , ainsi que la page du projet du site [ici](https://nehil971.github.io/WI-BASH-website/)
@@ -33,3 +39,12 @@ Dans ce projet, vous retrouverez des mini-tutoriels qui vous initieront A l'inco
 Vous retrouverez également des informations sur certains logiciels très utiles tel que pandoc.
 
 Rejoignez la page du projet [Bureautique]()
+
+***
+
+## - Projet Wi-bash Asso
+
+Ce projet vise à accompagner la création ainsi que l'animation au sein de l'association.
+vous pouvez dès maintenant consulter [sa page](https://nehil971.github.io/WI-BASH_asso/) !
+
+***
