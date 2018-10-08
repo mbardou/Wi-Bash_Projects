@@ -1,9 +1,21 @@
 # Futurs projets
 
-Sur cette page vous retrouverez la liste des projets à venir; pour les projets déjà en cours, ou ceux qui commenceront très prochainnement, Venez sur la page des [projets en cours](README.md) !
+Les **projets officiels** suivants sont envisagés :
 
-N'hésitez pas a proposer un nouveau projet, nous l'ajouterons après consultation !
+- Formation / linux : savoir installer linux.
 
-***
+- Formation / evaluation : lister les compétences de chaque membre
+pour que les autres puissent en profiter
 
-## A venir !
+
+- Communication / serveur de chat : nous avons déjà un serveur de chat (discord).
+mais il faut prévoir comment le gérer => projet à rédiger.
+
+- Communication / mailing list : un petit digest mensuel ou hebdomadaire,
+idéalement automatique.
+
+N'hésitez pas à proposer un nouveau projet, nous l'ajouterons après consultation !
+
+-----
+
+Pour les projets déjà en cours, Venez sur la page des [projets en cours](README.md) !
