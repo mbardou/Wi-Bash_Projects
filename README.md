@@ -6,6 +6,8 @@ Voici la liste exhaustive des projets de l'association Wi-Bash; Vous trouverez s
 
 ### Administration et Finances
 
+-----
+
 #### Gestion de l'association Wi-Bash
 
 Nom du projet : **Wi-BASH_asso**
@@ -14,6 +16,8 @@ C'est notre projet central.
 
 Ce projet vise à accompagner la création de l'association ainsi que l'animation au sein de l'association.
 vous pouvez dès maintenant consulter [sa page](https://nehil971.github.io/WI-BASH_asso/) !
+
+----
 
 #### Gestion des projets de l'association
 
@@ -26,7 +30,11 @@ Vraisemblablement, si vous lisez ceci dans un navigateur, vous avez trouvé la p
 
 Bonne visite !
 
+-----
+
 ### Communication
+
+-----
 
 #### Construction du site Web
 
@@ -40,6 +48,8 @@ A ne pas confondre avec l'adresse du site [http://wi-bash.fr/](http://wi-bash.fr
 
 ### Formation
 
+-----
+
 #### Accueil des nouveaux membres
 
 Nom du projet **Wi-Bash Noobs**
@@ -47,6 +57,8 @@ Nom du projet **Wi-Bash Noobs**
 Ce projet consiste à fournir aux nouveaux membres (vous tous en fait) toutes les informations pour bien débuter dans l'association.
 
 Retrouvez La page du projet [Wi-Bash Noobs](https://mbardou.github.io/Wi-bash-noobs/) !
+
+-----
 
 #### Bureautique
 
@@ -57,13 +69,13 @@ Un atelier a été proposé dans le cadre de notre association sur l'utilisation
 
 Le projet correspondant à cet atelier est en cours d'élaboration, sa page suivra.
 
+----
 
 #### Arduino
 
 Un atelier a été proposé dans le cadre de notre association sur une introduction à l'utilisation de ces petites cartes.
 
 Le projet correspondant à cet atelier est en cours d'élaboration, sa page suivra.
-
 
 ------
 
