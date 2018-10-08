@@ -1,50 +1,87 @@
-# Projets en cours
+# Projets de l'association Wi-Bash
+
+## Projets officiels
 
 Voici la liste exhaustive des projets de l'association Wi-Bash; Vous trouverez sur cette page les liens menant aux pages principales de chaque projet.
-**Pour les projets à venir, veuillez visiter** [cette page](Projets_à_venir.md)
 
-***
+### Administration et Finances
 
-## - projet Wi-bash Projets
+#### Gestion de l'association Wi-Bash
 
-Vous y-êtes ! Cette page est aussi un projet, puisqu'il faut mettre à jour sa liste à chaque fois qu'un projet voit le jour ! il me semble que vous avez déjà trouvé sa page... Bonne visite !
+Nom du projet : **Wi-BASH_asso**
 
-***
+C'est notre projet central.
 
-## - Construction du site Wordpress
+Ce projet vise à accompagner la création de l'association ainsi que l'animation au sein de l'association.
+vous pouvez dès maintenant consulter [sa page](https://nehil971.github.io/WI-BASH_asso/) !
 
-Vous retrouverez le lien du site [ici](http://wi-bash.fr/) , ainsi que la page du projet du site [ici](https://nehil971.github.io/WI-BASH-website/)
+#### Gestion des projets de l'association
 
-*Dirigé par Thibault*
+Nom du projet : **Wi-Bash_Projects**
 
-***
+Gérer les projets de notre association est en soit un projet, puisqu'il
+faut mettre à jour sa liste à chaque fois qu'un projet voit le jour !
 
-## - Projet Arduino
+Vraisemblablement, si vous lisez ceci dans un navigateur, vous avez trouvé la page de suivi du projet : [https://mbardou.github.io/Wi-Bash_Projects/](https://mbardou.github.io/Wi-Bash_Projects/)
 
-(A venir)
+Bonne visite !
 
-***
+### Communication
 
-## - Projet Wi-Bash Noobs
+#### Construction du site Web
 
-Ce projet consiste a lister les logiciels fortement recommandés afin de participer aux projets, des liens vers les pages de tutoriels d'installation de certains logiciels, ainsi que d'autres détails qui seront fortement utiles aux nouveaux membres de l'association _Wi-Bash_.
+Nom du projet : **Wi-Bash_website**
+
+Créer le site web est également une de nos préoccupations majeures.
+
+Voici [la page du projet du site](https://nehil971.github.io/WI-BASH-website/)
+
+A ne pas confondre avec l'adresse du site [http://wi-bash.fr/](http://wi-bash.fr/)
+
+### Formation
+
+#### Accueil des nouveaux membres
+
+Nom du projet **Wi-Bash Noobs**
+
+Ce projet consiste à fournir aux nouveaux membres (vous tous en fait) toutes les informations pour bien débuter dans l'association.
 
 Retrouvez La page du projet [Wi-Bash Noobs](https://mbardou.github.io/Wi-bash-noobs/) !
 
-***
+#### Bureautique
 
-## - Projet Bureautique
+Les tâches de bureautiques sont souvent rébarbatives. Soyons efficaces !
+Un atelier a été proposé dans le cadre de notre association sur l'utilisation :
+- de l'incontournable language **markdown**
+- du très pratique **pandoc** qui convertit les documents.
 
-Dans ce projet, vous retrouverez des mini-tutoriels qui vous initieront A l'incontournable language **markdown**, que vous devrez utiliser dans toute rédaction de projet sur Github.
-Vous retrouverez également des informations sur certains logiciels très utiles tel que pandoc.
+Le projet correspondant à cet atelier est en cours d'élaboration, sa page suivra.
 
-Rejoignez la page du projet [Bureautique]()
 
-***
+#### Arduino
 
-## - Projet Wi-bash Asso
+Un atelier a été proposé dans le cadre de notre association sur une introduction à l'utilisation de ces petites cartes.
 
-Ce projet vise à accompagner la création ainsi que l'animation au sein de l'association.
-vous pouvez dès maintenant consulter [sa page](https://nehil971.github.io/WI-BASH_asso/) !
+Le projet correspondant à cet atelier est en cours d'élaboration, sa page suivra.
 
-***
+
+------
+
+## Projets à venir
+
+**Pour les projets à venir, veuillez visiter** [cette page](Projets_à_venir.md)
+
+------
+
+
+## Autres projets
+
+Tous les projets non officiels peuvent être listé.
+
+------
+
+## TODO List :
+
+1. Créer le projet Bureautique
+
+2. Créer le projet Arduino
