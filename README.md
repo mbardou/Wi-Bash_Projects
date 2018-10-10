@@ -81,7 +81,7 @@ Le projet correspondant à cet atelier est en cours d'élaboration, sa page suiv
 ------
 
 
-##Projets-des-membres
+## Projets-des-membres
 
 Dans cette section, nous allons lister tous les projets actuels en les regroupant par domaine. la liste n'est probablement pas complète, et ne doit en aucun cas vous freiner dans la création de votre projet. si vous souhaitez aborder un thème non abordé dans la liste, proposez simplement de l'ajouter !
 
