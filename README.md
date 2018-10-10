@@ -1,8 +1,11 @@
 # Projets de l'association Wi-Bash
 
-## Projets officiels
+## Projets Internes
 
-Voici la liste exhaustive des projets de l'association Wi-Bash; Vous trouverez sur cette page les liens menant aux pages principales de chaque projet.
+Voici la liste exhaustive des projets internes de l'association Wi-Bash; Vous trouverez sur cette page les liens menant aux pages respectives de chacun de ces projets.
+Les projets internes regroupent tous les projets centrés sur la création et le maintien de l'association.
+
+**Pour passer directement aux projets des membres, c'est [par ici !](##Projets-à-venir)**
 
 ### Administration et Finances
 
@@ -71,14 +74,6 @@ Le projet correspondant à cet atelier est en cours d'élaboration, sa page suiv
 
 ----
 
-#### Arduino
-
-Un atelier a été proposé dans le cadre de notre association sur une introduction à l'utilisation de ces petites cartes.
-
-Le projet correspondant à cet atelier est en cours d'élaboration, sa page suivra.
-
-------
-
 ## Projets à venir
 
 **Pour les projets à venir, veuillez visiter** [cette page](Projets_à_venir.md)
@@ -86,9 +81,59 @@ Le projet correspondant à cet atelier est en cours d'élaboration, sa page suiv
 ------
 
 
-## Autres projets
+## Projets des membres
 
-Tous les projets non officiels peuvent être listé.
+Dans cette section, nous allons lister tous les projets actuels en les regroupant par domaine. la liste n'est probablement pas complète, et ne doit en aucun cas vous freiner dans la création de votre projet. si vous souhaitez aborder un thème non abordé dans la liste, proposez simplement de l'ajouter !
+
+----
+
+### Programmation
+- Python/Pygame
+- C/C++
+- Applications mobiles
+- java
+
+### Robotique & Domotique
+
+- Arduino:
+
+Un atelier a été proposé dans le cadre de notre association sur une introduction à l'utilisation de ces petites cartes.
+
+Le projet correspondant à cet atelier est en cours d'élaboration, sa page suivra.
+
+### Développement web
+
+- CMS
+
+- HTML & CSS
+
+- PHP
+
+- framework
+
+### Hardware
+
+Administration Système:
+- Linux
+
+- Windows
+
+- Mac OS
+
+### Culture informatique:
+
+- gestion de version
+
+- ligne de commandes
+
+- expressions régulières
+
+### Modélisation 3D
+
+- Blender
+
+-  Impression 3D
+
 
 ------
 
