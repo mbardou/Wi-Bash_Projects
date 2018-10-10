@@ -5,7 +5,7 @@
 Voici la liste exhaustive des projets internes de l'association Wi-Bash; Vous trouverez sur cette page les liens menant aux pages respectives de chacun de ces projets.
 Les projets internes regroupent tous les projets centrés sur la création et le maintien de l'association.
 
-**Pour passer directement aux projets des membres, c'est [par ici !](##Projets-à-venir)**
+**Pour passer directement aux projets des membres, c'est [par ici !](## Projets-à-venir)**
 
 ### Administration et Finances
 
