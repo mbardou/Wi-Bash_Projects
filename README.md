@@ -3,7 +3,7 @@
 ## Projets Internes
 
 Voici la liste exhaustive des projets internes de l'association Wi-Bash; Vous trouverez sur cette page les liens menant aux pages respectives de chacun de ces projets.
-Les projets internes regroupent tous les projets centrés sur la création et le maintien de l'association.
+Les projets internes regroupent tous les projets centrés sur la création et le maintien de l'association, ou simplement les projets d'utilité générale, tel que le projet bureautique.
 
 **Pour passer directement aux projets des membres, c'est [par ici !](#Link)**
 
@@ -74,6 +74,13 @@ Le projet correspondant à cet atelier est en cours d'élaboration, sa page suiv
 
 ----
 
+#### Guide de survie
+
+ce projet vise a vous introduire aux applications portables, une solution qui vous facilitera la vie dans de nombreuses situations en vous faisant gagner un temps précieux ! vite, au [Guide de survie](https://elbixos.github.io/survivalGuide/) !
+
+----
+
+
 ## Projets à venir
 
 **Pour les projets à venir, veuillez visiter** [cette page](Projets_à_venir.md)
@@ -81,7 +88,7 @@ Le projet correspondant à cet atelier est en cours d'élaboration, sa page suiv
 ------
 
 
-## Projets des membres (#Link)
+## Projets des membres(#Link)
 
 Dans cette section, nous allons lister tous les projets actuels en les regroupant par domaine. la liste n'est probablement pas complète, et ne doit en aucun cas vous freiner dans la création de votre projet. si vous souhaitez aborder un thème non abordé dans la liste, proposez simplement de l'ajouter !
 
