@@ -108,6 +108,10 @@ Un atelier a été proposé dans le cadre de notre association sur une introduct
 
 Le projet correspondant à cet atelier est en cours d'élaboration, sa page suivra.
 
+- Construction d'un robot (détails à venir)
+
+- Construction d'un drone (détails à venir)
+
 ### Développement web
 
 - CMS
@@ -119,6 +123,8 @@ Le projet correspondant à cet atelier est en cours d'élaboration, sa page suiv
 - framework
 
 ### Hardware
+ - Nous avons déjà remis en marche plusieurs machines en combinant les matériaux venant d'ordinateurs hors service dont les problèmes différaient.
+
 
 Administration Système:
 - Linux
@@ -140,6 +146,8 @@ Administration Système:
 - Blender
 
 -  Impression 3D
+
+- Panda 3D
 
 
 ------
