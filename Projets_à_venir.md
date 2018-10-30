@@ -2,6 +2,18 @@
 
 Les **projets officiels** suivants sont envisagés :
 
+##Programmation
+
+- Jeux vidéos
+
+## Evènement
+
+- Pimp my PC, (détails à venir)
+
+- Récupération de vieux PC ( pas encore de noms) (détails à venir)
+
+##Autre
+
 - Formation / linux : savoir installer linux.
 
 - Formation / évaluation : lister les compétences de chaque membre

@@ -7,92 +7,26 @@ Les projets internes regroupent tous les projets centrés sur la création et le
 
 **Pour passer directement aux projets des membres, c'est [par ici !](#Link)**
 
-### Administration et Finances
-
------
-
-#### Gestion de l'association Wi-Bash
-
-Nom du projet : **Wi-BASH_asso**
-
-C'est notre projet central.
-
-Ce projet vise à accompagner la création de l'association ainsi que l'animation au sein de l'association.
-vous pouvez dès maintenant consulter [sa page](https://nehil971.github.io/WI-BASH_asso/) !
-
-----
-
-#### Gestion des projets de l'association
-
-Nom du projet : **Wi-Bash_Projects**
-
-Gérer les projets de notre association est en soit un projet, puisqu'il
-faut mettre à jour sa liste à chaque fois qu'un projet voit le jour !
-
-Vraisemblablement, si vous lisez ceci dans un navigateur, vous avez trouvé la page de suivi du projet : [https://mbardou.github.io/Wi-Bash_Projects/](https://mbardou.github.io/Wi-Bash_Projects/)
-
-Bonne visite !
-
------
-
-### Communication
-
------
-
-#### Construction du site Web
-
-Nom du projet : **Wi-Bash_website**
-
-Créer le site web est également une de nos préoccupations majeures.
-
-Voici [la page du projet du site](https://nehil971.github.io/WI-BASH-website/)
-
-A ne pas confondre avec l'adresse du site [http://wi-bash.fr/](http://wi-bash.fr/)
-
-### Formation
-
------
-
-#### Accueil des nouveaux membres
-
-Nom du projet **Wi-Bash Noobs**
-
-Ce projet consiste à fournir aux nouveaux membres (vous tous en fait) toutes les informations pour bien débuter dans l'association.
-
-Retrouvez La page du projet [Wi-Bash Noobs](https://mbardou.github.io/Wi-bash-noobs/) !
-
------
-
-#### Bureautique
-
-Les tâches de bureautiques sont souvent rébarbatives. Soyons efficaces !
-Un atelier a été proposé dans le cadre de notre association sur l'utilisation :
-- de l'incontournable language **markdown**
-- du très pratique **pandoc** qui convertit les documents.
-
-Le projet correspondant à cet atelier est en cours d'élaboration, sa page suivra.
-
-----
-
-#### Guide de survie
-
-ce projet vise a vous introduire aux applications portables, une solution qui vous facilitera la vie dans de nombreuses situations en vous faisant gagner un temps précieux ! vite, au [Guide de survie](https://elbixos.github.io/survivalGuide/) !
-
-----
-
-
-## Projets à venir
-
-**Pour les projets à venir, veuillez visiter** [cette page](Projets_à_venir.md)
-
-------
-
 
 ## Projets des membres(#Link)
 
 Dans cette section, nous allons lister tous les projets actuels en les regroupant par domaine. la liste n'est probablement pas complète, et ne doit en aucun cas vous freiner dans la création de votre projet. si vous souhaitez aborder un thème non abordé dans la liste, proposez simplement de l'ajouter !
 
-----
+
+
+### Accueil des nouveaux membres
+
+ Nom du projet **Wi-Bash Noobs**
+
+ Ce projet consiste à fournir aux nouveaux membres (vous tous en fait) toutes les informations pour bien débuter dans l'association.
+
+ Retrouvez La page du projet [Wi-Bash Noobs](https://mbardou.github.io/Wi-bash-noobs/) !
+
+
+### Guide de survie
+
+ce projet vise a vous introduire aux applications portables, une solution qui vous facilitera la vie dans de nombreuses situations en vous faisant gagner un temps précieux ! vite, au [Guide de survie](https://elbixos.github.io/survivalGuide/) !
+
 
 ### Programmation
 - Python/Pygame
@@ -110,7 +44,7 @@ Le projet correspondant à cet atelier est en cours d'élaboration, sa page suiv
 
 - Construction d'un robot (détails à venir)
 
-- Construction d'un drone (détails à venir)
+- Construction d'un drone, c'est [ici](https://nehil971.github.io/Projet-Robot/)
 
 ### Développement web
 
@@ -123,10 +57,11 @@ Le projet correspondant à cet atelier est en cours d'élaboration, sa page suiv
 - framework
 
 ### Hardware
- - Nous avons déjà remis en marche plusieurs machines en combinant les matériaux venant d'ordinateurs hors service dont les problèmes différaient.
+
+ - Machine à déssiner (CNC).
 
 
-Administration Système:
+#### Administration Système:
 - Linux
 
 - Windows
@@ -152,8 +87,21 @@ Administration Système:
 
 ------
 
+## Projets à venir
+
+**Pour les projets à venir, veuillez visiter** [cette page](Projets_à_venir.md)
+
+------
+
+## Projet Fini
+
+### Hardware
+ - Nous avons déjà remis en marche plusieurs machines en combinant les matériaux venant d'ordinateurs hors service dont les problèmes différaient.
+
+ ----
+
 ## TODO List :
 
-1. Créer le projet Bureautique
+ 1. Créer le projet Bureautique
 
-2. Créer le projet Arduino
+ 2. Créer le projet Arduino
